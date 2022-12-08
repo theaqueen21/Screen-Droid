@@ -1,11 +1,11 @@
 # Android Debugger
-## Android Debugger V1 was developed and tested on python 3.9 and higher
+## Android Debugger V1
 * CLI Interface
 * Supports One Device At A Time
 * Few Errors Handled
 * If The Terminal Window Is Closed Instead Of Using The Command '/x' adb.exe Will Run In The Background And Cause Issues
 * Almost Full Feature Set
-## Android Debugger V2 was developed and tested on python 3.10 and higher
+## Android Debugger V2
 * GUI Interface Via Tkinter
 * Supports Multiple Devices At Once
 * Multiple Errors Handled
@@ -22,3 +22,5 @@
 
 
 > **Tested on Samsung Galaxy S10 (Android 12), Oppo Reno 5G (Android 12.1), Samsung Galaxy J5 2016 (Android 11 Custom OS)**
+> **ADV1 Was Developed And Tested On Python 3.9=< X**
+> **ADV2 Was Developed And Tested On Python 3.10=< X**
