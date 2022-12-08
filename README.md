@@ -17,4 +17,7 @@
 >Compatibility
 * USB Debugging Must Be Enabled (Developer Options)
 * Android 11 =< X is Officially Supports Wireless Screen Sharing (May Work With Older Android Versions)
-**Tested on Samsung Galaxy S10 (Android 12), Oppo Reno 5G (Android 12.1), Samsung Galaxy J5 2016 (Android 11 Custom OS)**
+
+
+
+> **Tested on Samsung Galaxy S10 (Android 12), Oppo Reno 5G (Android 12.1), Samsung Galaxy J5 2016 (Android 11 Custom OS)**
