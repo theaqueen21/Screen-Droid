@@ -14,3 +14,5 @@
 * adb.exe terminates when the window is closed
 * Supporrts keybinds [F5: Refresh, F4: Kills running processes and restarts adb.exe, Esc: Exit]
 * Compiled ScreenDroid.exe is Android Debugger V2
+
+** Tested on Samsung Galaxy S10, Oppo Reno 5G, Samsung Galaxy J5 2016 (Android 11) **
