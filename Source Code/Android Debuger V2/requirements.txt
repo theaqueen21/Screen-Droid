@@ -1,0 +1,10 @@
+tkinter
+subprocess
+os
+sys
+netifaces
+time
+threading
+random
+imageio
+pillow
