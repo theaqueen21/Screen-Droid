@@ -16,7 +16,7 @@
 * Compiled ScreenDroid.exe is Android Debugger V2
 >Compatibility
 * USB Debugging Must Be Enabled (Developer Options)
-* Android 11 =< X is Officially Supports Wireless Screen Sharing (May Work With Older Android Versions)
+* Android 11 =< X Officially Supports Wireless Screen Sharing (May Work With Older Android Versions)
 
 
 
