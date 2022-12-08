@@ -22,5 +22,7 @@
 
 
 > **Tested on Samsung Galaxy S10 (Android 12), Oppo Reno 5G (Android 12.1), Samsung Galaxy J5 2016 (Android 11 Custom OS)**
+
 > **ADV1 Was Developed And Tested On Python 3.9=< X**
+
 > **ADV2 Was Developed And Tested On Python 3.10=< X**
