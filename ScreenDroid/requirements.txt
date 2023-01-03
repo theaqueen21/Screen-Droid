@@ -1,0 +1,11 @@
+tkinter
+subprocess
+os
+sys
+time
+threading
+random
+imageio
+pillow
+re
+getpass

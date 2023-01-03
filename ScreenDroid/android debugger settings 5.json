@@ -1,0 +1,129 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/alhus/Desktop/ScreenDroid/ScreenDroid/Source Code/Android Debugger V2/Debugger_main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/alhus/Desktop/Python Projects/!Serious BS/Ultimate Android Debuger/Android.ico"
+  },
+  {
+   "optionDest": "name",
+   "value": "ScreenDroid"
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "clean_build",
+   "value": true
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "embed_manifest",
+   "value": true
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "tkinter"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "subprocess"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "os"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "sys"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "time"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "threading"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "random"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "imageio"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "PIL"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/alhus/Desktop/ScreenDroid/ScreenDroid/Source Code/Android Debugger V2/addons;addons/"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "re"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "getpass"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
