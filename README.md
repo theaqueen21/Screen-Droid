@@ -61,3 +61,11 @@ We have a number of exciting features in the pipeline for our app. Here's a snea
 - **User Settings**: Customize your experience with the ability to save your preferred settings.
 
 Stay tuned for updates on these exciting new features!
+
+># Donations (Monero):
+
+
+
+
+![image](https://user-images.githubusercontent.com/94680549/212542650-0da201d1-704b-47e8-b11c-46d2435da4b0.png)
+Thank You In Advance!
