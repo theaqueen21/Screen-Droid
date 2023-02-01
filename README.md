@@ -47,6 +47,7 @@ It is currently being developed and tested on Python 3.10 to 3.X.
 We are aware of the following issues with our app:
 
 - Slow Startup
+- A bug preventing the device's name from disappearing from the list box when running a task. This allows multiple tasks to be ran on the same device, which may result in unexpected errors.
 - Low Quality UI and Old Design
 - If our app is ended incorrectly due to any system or user error, the lock file `AppData\Local\Temp\ADBV2.lock` might not get deleted, which will prevent the program from launching unless it is deleted manually.
 
