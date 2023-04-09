@@ -60,6 +60,8 @@ We have a number of exciting features in the pipeline for our app. Here's a snea
 - **WhatsApp Backup**: Don't worry about losing your WhatsApp data again! Our app will allow you to easily create backups of your chat history and media.
 - **Custom Refresh Time**: Set the refresh time for the app to suit your needs.
 - **User Settings**: Customize your experience with the ability to save your preferred settings.
+- **Update Mechanism**: An update mechanism will be added.
+- **Tree Process**: THe option to allow running ADB processes to proceed without requiring ScreenDroid to be open.
 
 Stay tuned for updates on these exciting new features!
 
