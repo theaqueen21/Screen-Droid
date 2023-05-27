@@ -8,8 +8,8 @@ ScreenDroid is an Android debugger that allows you to share your Android device'
 - Version 2 supports multiple devices, routing traffic to a specific adapter, and has a full feature set. It also has a startup animation and prevents multiple instances of the process from running. It has keybinds for refreshing, killing processes, and exiting the application.
 
 >#  Built With
-* [ADB](https://developer.android.com/studio/command-line/adb) - Automate this tool
-* [Scrcpy](https://github.com/Genymobile/scrcpy) - Automate this tool
+* [ADB](https://developer.android.com/studio/command-line/adb) - Automate this tool (r34.0.3)
+* [Scrcpy](https://github.com/Genymobile/scrcpy) - Automate this tool (v2.0)
 * [Tkinter](https://docs.python.org/3/library/tkinter.html) - Graphical User Interface
 * [Pillow](https://pillow.readthedocs.io/en/stable/) - Extract each frame from a .mp4 file
 * [Imageio](https://imageio.readthedocs.io/en/stable/) - Read .mp4 files
