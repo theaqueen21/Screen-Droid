@@ -71,6 +71,8 @@ Stay tuned for updates on these exciting new features!
 
 ## Donations (Monero)
 
-![image](https://user-images.githubusercontent.com/94680549/212542650-0da201d1-704b-47e8-b11c-46d2435da4b0.png)
+
+
+![Donations](https://github.com/theaqueen21/Screen-Droid/assets/94680549/0ccf28e3-b6d7-4f25-8411-614b921232f3)
 
 Thank you in advance!
