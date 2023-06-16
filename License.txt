@@ -1,0 +1,63 @@
+GNU GENERAL PUBLIC LICENSE
+Version 2, 16 June 2023
+
+Screen-Droid
+
+Preamble
+
+The Screen-Droid software ("the Software") is a free and open-source program developed with the aim of providing screen-casting and screen-recording functionality. The goal of this license is to ensure the users' freedom to use, modify, and distribute the Software while promoting cooperation and sharing within the open-source community. This license governs the terms and conditions of use, modification, and redistribution of the Software.
+
+TERMS AND CONDITIONS
+
+Definitions
+
+a. "You" refers to any individual or entity exercising rights under this license.
+b. "Modified Version" pertains to any derivative work created by modifying or adding to the Software.
+c. "Source Code" refers to the preferred form of the Software for making modifications.
+d. "Object Code" refers to the compiled form of the Software.
+
+Scope
+
+This license grants you the following rights, provided you adhere to the terms and conditions:
+
+a. The freedom to use the Software for any purpose.
+b. The freedom to modify the Software to suit your needs.
+c. The freedom to distribute copies of the Software to others.
+d. The freedom to distribute modified versions of the Software.
+e. The freedom to distribute the Software and its modifications commercially.
+f. The freedom to sublicense the Software.
+
+License Grant
+
+a. If you distribute the Software or any modified version, you must:
+i. Accompany it with the complete corresponding Source Code.
+ii. Ensure that all recipients receive a copy of this license.
+iii. Preserve any copyright notices, license terms, and disclaimers included with the Software.
+iv. Provide clear instructions to recipients on how to obtain the complete Source Code.
+
+b. If you distribute the Software in Object Code form, you must:
+i. Provide access to the complete corresponding Source Code in a suitable and commonly used format.
+ii. Accompany it with the written offer, valid for at least three years, to provide the Source Code upon request.
+
+c. If you distribute the Software or any modified version, you must license it under the terms of this license.
+
+Patents
+
+a. Any patent claims against the Software or its contributors, arising from its use, modification, or distribution, are automatically and irrevocably licensed on a worldwide, royalty-free basis to the extent of the patents' coverage.
+
+Termination
+
+a. If you violate the terms of this license, your rights automatically terminate.
+b. Upon termination, you must cease all distribution of the Software and destroy all copies in your possession.
+
+Disclaimer of Warranty
+
+The Software is provided "as is" without warranty of any kind, express or implied. The authors and contributors disclaim all warranties, including but not limited to fitness for a particular purpose and non-infringement. You assume the entire risk of using the Software.
+
+Limitation of Liability
+
+The authors and contributors shall not be liable for any direct, indirect, incidental, special, exemplary, or consequential damages, including but not limited to procurement of substitute goods or services, loss of use, data, or profits, or business interruption, arising in any way out of the use, modification, or distribution of the Software, even if advised of the possibility of such damage.
+
+END OF TERMS AND CONDITIONS
+
+By using, modifying, or distributing the Screen-Droid software, you acknowledge that you have read and understood the terms and conditions of this license. You agree to comply with its terms and conditions for the use, modification, and distribution of the Software.
