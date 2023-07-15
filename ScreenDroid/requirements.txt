@@ -1,3 +1,0 @@
-imageio==2.22.3
-imageio-ffmpeg==0.4.8
-Pillow==9.3.0
